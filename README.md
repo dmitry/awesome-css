@@ -3,7 +3,7 @@ Awesome CSS
 
 A curated list of awesome CSS resources. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-python](https://github.com/vinta/awesome-python)
 
-## Contents
+## Table of Contents
 
 - [Reset CSS](#reset-css)
 - [Framework](#framework)
@@ -14,7 +14,6 @@ A curated list of awesome CSS resources. Inspired by [awesome-php](https://githu
 - [Websites and resources](#websites-and-resources)
 	- [Websites](#website)
 	- [Validation](#validation)
-	- [Blog](#blog)
 	- [Twitter](#twitter)
 - [Other awesome lists](#other-awesome-lists)
 - [Contributing](#contributing)
@@ -30,7 +29,15 @@ A curated list of awesome CSS resources. Inspired by [awesome-php](https://githu
 ## Framework
 
 * [Bootstrap](http://getbootstrap.com/)
+	* [Bootswatch](http://bootswatch.com/)
 	* [Boot Metro](http://aozora.github.io/bootmetro/)
+	* [jQuery UI Bootstrap](http://jquery-ui-bootstrap.github.io/jquery-ui-bootstrap/)
+	* [jQuery Mobile Twitter Bootstrap Theme](http://andymatthews.net/code/jQuery-Mobile-Bootstrap-Theme/)
+	* [PaintStrap](http://paintstrap.com/)
+	* [Fbootstrapp](http://ckrack.github.io/fbootstrapp/)
+	* [Flat UI](http://designmodo.github.io/Flat-UI/)
+	* [Flatstrap](http://www.flatstrap.org/)
+	* [Bootstrap Themes](http://www.portnine.com/bootstrap-themes)
 * [Foundation](http://foundation.zurb.com/)
 * [Pure](http://purecss.io/)
 * [Gumby](http://gumbyframework.com/)
