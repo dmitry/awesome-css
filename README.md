@@ -63,6 +63,30 @@ A curated list of awesome CSS resources. Inspired by [awesome-php](https://githu
 * [SMACSS](http://smacss.com/) - Scalable and Modular Architecture for CSS
 * [BEM](http://bem.info/) - Block, Element, Modifier
 
+## Tools
+
+### GUI Preprocessor
+
+* [CodeKit](https://incident57.com/codekit/)
+* [SCOUT](http://mhs.github.io/scout-app/)
+* [Koala](http://koala-app.com/)
+* [Prepros](http://alphapixels.com/prepros/)
+* [compass.app](http://compass.kkbox.com/)
+
+### CUI Preprocessor
+
+#### Grunt
+
+* [grunt-contrib-sass](https://github.com/gruntjs/grunt-contrib-sass)
+* [grunt-contrib-less](https://github.com/gruntjs/grunt-contrib-less)
+* [grunt-contrib-stylus](https://github.com/gruntjs/grunt-contrib-stylus)
+
+#### gulp
+
+* [gulp-sass](https://github.com/dlmanning/gulp-sass)
+* [gulp-less](https://www.npmjs.org/package/gulp-less/)
+* [gulp-stylus](https://github.com/stevelacy/gulp-stylus)
+
 ## Websites and resources
 
 ### Websites
