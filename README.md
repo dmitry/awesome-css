@@ -5,6 +5,7 @@ A curated list of awesome CSS resources. Inspired by [awesome-php](https://githu
 
 ## Contents
 
+- [Reset CSS](#reset-css)
 - [Framework](#framework)
 - [Preprocessor](#preprocessor)
 	- [Benchmark](#benchmark)
@@ -17,6 +18,14 @@ A curated list of awesome CSS resources. Inspired by [awesome-php](https://githu
 	- [Twitter](#twitter)
 - [Other awesome lists](#other-awesome-lists)
 - [Contributing](#contributing)
+
+## Reset CSS
+
+* [CSS Reset - YUI Library](http://yuilibrary.com/yui/docs/cssreset/)
+* [Normalize.css](http://necolas.github.io/normalize.css/)
+* [HTML5 Reset Stylesheet - html5 Doctor](http://html5doctor.com/html-5-reset-stylesheet/)
+* [Eric Meyer’s “Reset CSS” 2.0](http://meyerweb.com/eric/tools/css/reset/)
+* [CSS Reset](http://www.cssreset.com/)
 
 ## Framework
 
