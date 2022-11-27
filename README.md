@@ -101,6 +101,7 @@ A curated list of awesome CSS resources. Inspired by [awesome-php](https://githu
 * [W3C CSS Page](http://www.w3.org/Style/CSS/)
 * [CSS developer guide from MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS)
 * [HTML5 & CSS Development and Resources](http://oreilly.com/css-html/)
+* [Explore CSS Libraries on kandi](https://kandi.openweaver.com/explore/css) - Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 
 ### Validation
 
